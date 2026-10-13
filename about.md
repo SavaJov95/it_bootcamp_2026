@@ -11,3 +11,6 @@ Lista tema koju očekujem na kursu:
 - SQL
 - Spark
 - Airflow
+- Databricks
+- Git
+- Github
